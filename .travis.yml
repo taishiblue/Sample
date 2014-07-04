@@ -4,3 +4,5 @@ php:
 
 script: php test.php
 
+notifications:
+	email: taishi.takeichi@nex.nikkei.co.jp
