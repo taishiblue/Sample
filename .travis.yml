@@ -2,3 +2,6 @@ language: php
 php:
 	- "5.4"
 
+notifications:
+	emails:
+		- taishi.takeichi@nex.nikkei.co.jp
