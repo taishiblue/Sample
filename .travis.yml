@@ -4,8 +4,3 @@ php:
 
 script: php test.php
 
-notifications:
-	emails:
-		- taishi.takeichi@nex.nikkei.co.jp
-	on_success: always
-	on_failure: always
